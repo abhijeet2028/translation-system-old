@@ -13,7 +13,6 @@ A web application that provides real-time language translation (English, French,
 - **User Feedback System** (correct translations + 5-star ratings)
 - **Translation History** with timestamps
 - **Active Learning** - Improves based on user input
-- **Responsive UI** works on mobile/desktop
 
 ## 🛠 Tech Stack
 
