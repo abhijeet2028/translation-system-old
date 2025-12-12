@@ -81,3 +81,7 @@ def history():
 
 if __name__ == '__main__':
     app.run(debug=True)
+
+    # This is used for test
+    #This is test 2 for branch
+    print("EOF")
